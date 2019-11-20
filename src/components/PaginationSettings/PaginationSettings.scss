@@ -1,0 +1,22 @@
+.pagination-settings-form {
+  margin-bottom: 50px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.form-label {
+  margin: 8px 0;
+  width: 100%;
+  display: flex;
+}
+
+.form-input {
+  flex-basis: 0 0 50%;
+  margin-left: auto;
+  padding-left: 8px;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
